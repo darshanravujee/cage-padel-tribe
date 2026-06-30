@@ -132,7 +132,7 @@ export default function CourtsPage() {
       </section>
 
       {/* Courts Grid */}
-      <section className="section-padding bg-cage-black">
+      <section className="section-padding bg-black overflow-hidden">
         <div className="container-max">
           <motion.div
             variants={containerVariants}
