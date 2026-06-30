@@ -35,10 +35,6 @@ export default function RootLayout({
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://cagepadeltrib.com" />
         <meta property="og:image" content="https://cagepadeltrib.com/og-image.jpg" />
-
-        {/* EDIT ME: Add favicons */}
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
       </head>
       <body className="bg-cage-black text-cage-text">
         <Navigation />
